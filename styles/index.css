@@ -10,7 +10,7 @@ body {
 
 .brand-intro-head{
     font-size: 40px;
-    font-weight: 700;
+    font-weight: bolder;
     color: #325832;
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 .prompt-element-example{
-    font-weight: 500;
+    font-weight: bold;
 }
 
 .view-prompt-formula-cta {
