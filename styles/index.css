@@ -51,7 +51,8 @@ body {
 }
 
 .prompt-element-example{
-    font-weight: 500;
+    font-weight: 500
+    color: red;
 }
 
 .view-prompt-formula-cta {
