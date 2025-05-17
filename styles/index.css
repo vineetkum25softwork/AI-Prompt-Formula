@@ -14,7 +14,9 @@ body {
     color: #325832;
 }
 
-
+h6 {
+    font-weight: 700 !important;
+}
 .cardList {
     background-color: #f3f3f3;
     box-shadow: 10px 10px 15px 5px rgba(136, 136, 136, 0.2);
