@@ -4,7 +4,7 @@ body {
     background-color: #ffffff;
     padding: 0px;
     margin: 0px;
-      text-rendering: optimizeLegibility;
+     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -51,8 +51,7 @@ body {
 }
 
 .prompt-element-example{
-    font-weight: bold;
-    color: red;
+    font-weight: 500;
 }
 
 .view-prompt-formula-cta {
