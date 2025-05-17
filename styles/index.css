@@ -1,9 +1,66 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 body {
-    background-color: aliceblue;
+    background-color: #d4ffdd;
     padding: 0px;
     margin: 0px;
 }
 
+.brand-intro-head{
+    font-size: 40px;
+    font-weight: 700;
+    color: #2a332a;
+}
+
+
+.cardList {
+    background-color: #f3f3f3;
+    box-shadow: 10px 10px 15px 5px rgba(136, 136, 136, 0.2);
+}
+
+.cardHeading {
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.text-fit-width {
+    width: fit-content;
+}
+
+.category-badge-text-size {
+    font-size: 13px;
+    margin-left: 8px;
+}
+
+.incard-content-highlight {
+    background-color: white;
+    box-shadow: 5px 5px 6px rgba(128, 127, 127, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* .example-item{
+    padding-bottom: 11px;
+} */
+
+.section-title{
+    width: fit-content;
+    border-bottom: 5px;
+}
+
+.prompt-element-example{
+    font-weight: 500;
+}
+
+.view-prompt-formula-cta {
+  display: inline-block;
+  background-color: #165abb;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 50px; /* Rounded-pill shape */
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
 
